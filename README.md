@@ -102,7 +102,6 @@
         </ul>
      
     </div>
-</div>
 <footer>
     <p>© 2023 Soil Pollution Website. All rights reserved.</p>
 </footer>
